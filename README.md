@@ -8,7 +8,7 @@ solve tic tac toe (3x3) problem using vanila `mcts`. It was made for the purpose
 youtube demo: https://youtu.be/9BEcOWviCjA
 
 ### Requirement
-
+.
 - pygame
 
 
